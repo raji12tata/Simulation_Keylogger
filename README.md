@@ -13,7 +13,7 @@ A tiny, **educational** simulator that logs lines you type to a local temp file.
 
 ## Installation
 ```bash
-git clone https://github.com/raji12tata/Simulation_Keylogger.git
+git clone https://github.com/raji12tata/Simulation_Keylogger
 cd Simulation_Keylogger
 ````
 ## How to run
