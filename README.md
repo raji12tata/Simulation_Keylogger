@@ -15,6 +15,7 @@ A tiny, **educational** simulator that logs lines you type to a local temp file.
 ```bash
 git clone https://github.com/raji12tata/Simulation_Keylogger.git
 cd Simulation_Keylogger
-
+````
 ## How to run
-python keylogger.py
+````bash
+ python keylogger.py
