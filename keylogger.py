@@ -1,5 +1,6 @@
 """
 Educational Keylogger Simulator - Simple guaranteed version
+For Keyloggers-detector deployment
 """
 
 import os
